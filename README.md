@@ -12,5 +12,5 @@ The techniques/algorithms such as :-
 are/would be a part of this repository. 
 
 
-For any suggestions, please create a Pull Request :)
+Part of it is my academic work.
 
